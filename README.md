@@ -15,3 +15,6 @@
 - Cannot access elements using index operator []. Need to check if elements exists in the set. 
 - They are defined by enclosing elements in curly brackets {}.
 
+## Dictionary 
+- Collection of key-value pairs, mutable.
+- Each key value is unique and the keys are used to store and retrieve values

@@ -9,5 +9,9 @@
 - They are ordered, immutable (unchageable, cannot add, replace or remove) collections of items
 - They are defined by enclosing elements in parenthesis/ small brackets ().
 
-
+## Sets
+- They are unordered collection of unique elements (cannot have identical elements) 
+- They are useful for membership testing, removing duplicates from a sequence, and mathematical operations like union, intersection, and difference. 
+- Cannot access elements using index operator []. Need to check if elements exists in the set. 
+- They are defined by enclosing elements in curly brackets {}.
 
